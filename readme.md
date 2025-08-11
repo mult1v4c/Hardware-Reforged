@@ -65,7 +65,7 @@ This resource pack is licensed under the **Creative CommonsAttribution-NonCommer
 - Redistribute a modified version without providing a link to the original resource pack and license.
 - Claim the work as your own.
 
-## Future Plans
+## 💡 Future Plans
 
 I'm currently doing a mod compatibilty pack for [Spellbound Weapons](https://modrinth.com/datapack/spellbound-weapons) in the same style and art direction as Hardware Reforged. I'm considering doing the shield and all armor sets.
 
