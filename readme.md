@@ -70,7 +70,7 @@ This resource pack is licensed under the **Creative CommonsAttribution-NonCommer
 I'm currently doing a mod compatibilty pack for [Spellbound Weapons](https://modrinth.com/datapack/spellbound-weapons) in the same style and art direction as Hardware Reforged. I'm considering doing the shield and all armor sets.
 
 ## 👋 Feedback
-If you have any feedback or find any misspellings, errors, or corrections, please report them on the [GitHub Issues page](https://github.com/mult1v4c/3D-Reforged/issues).
+If you have any feedback or find any misspellings, errors, or corrections, please report them on the [GitHub Issues page](https://github.com/mult1v4c/Hardware-Reforged/issues).
 
 ## ❤️ Support
 If you appreciate the effort put into this pack, please consider supporting me on [Ko-fi](https://ko-fi.com/mult1v4c). Your support is greatly appreciated!
