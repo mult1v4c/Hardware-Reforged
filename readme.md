@@ -1,5 +1,4 @@
-<center>
-<div>
+<p align="center">
 <img src="pack.png"></a>
 <br>
 <br>
@@ -7,8 +6,7 @@
 <a href=https://github.com/mult1v4c/Hardware-Reforged><img alt="GitHub badge" src="https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white"></a>
 <a href=https://www.ko-fi.com/mult1v4c><img alt="Ko-fi badge" src="https://img.shields.io/badge/Send%20support!-white?style=flat&logo=ko-fi&logoColor=%23FF6433"></a>
 <h1>Hardware Reforged Resource Pack</h1>
-</div>
-</center>
+</p>
 
 ## 🔥  About
 **Hardware Reforged** is a resource pack that revamps vanilla tools and weapons. Complete with all tool materials, fishing rods, bow, crossbow, mace, and trident!
