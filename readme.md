@@ -3,6 +3,7 @@
 <br>
 <br>
 <a href=https://modrinth.com/resourcepack/hardware-reforged><img alt="Modrinth badge" src="https://img.shields.io/badge/Modrinth-%2300AF5C?style=flat&logo=modrinth&logoColor=white"></a>
+<a href=https://www.curseforge.com/minecraft/texture-packs/hardware-reforged><img alt="Curseforge Badge" src="https://img.shields.io/badge/Curseforge-%23F16436?logo=curseforge&logoColor=white"></a>
 <a href=https://github.com/mult1v4c/Hardware-Reforged><img alt="GitHub badge" src="https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white"></a>
 <a href=https://www.ko-fi.com/mult1v4c><img alt="Ko-fi badge" src="https://img.shields.io/badge/Send%20support!-white?style=flat&logo=ko-fi&logoColor=%23FF6433"></a>
 </p>
@@ -42,7 +43,7 @@ Make sure the this pack is placed **above** any other resource packs to avoid co
 
 ## 📝 Attribution
 
-All models and textures in *Hardware Reforged* is made by me. However, this pack is inspired and influenced by [Gray's 3D Items](https://modrinth.com/resourcepack/grays-3d-items). Check out more of their work on [Modrinth](https://modrinth.com/user/CanineGray).
+All models and textures in *Hardware Reforged* is made by me. However, this pack is inspired and influenced by ***Gray's 3D Items*** by ***caninegray*** on [Modrinth](https://modrinth.com/resourcepack/grays-3d-items) and [Curseforge](https://www.curseforge.com/minecraft/texture-packs/grays-3d-items). Check out more of their work [here](https://modrinth.com/user/CanineGray) and [here](https://www.curseforge.com/members/caninegray/projects).
 
 ## 🖊️ Terms of Use
 
