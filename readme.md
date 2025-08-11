@@ -9,7 +9,6 @@
 </p>
 <h1 align="center">Hardware Reforged Resource Pack</h1>
 
-## 🔥  About
 **Hardware Reforged** is a resource pack that revamps vanilla tools and weapons. Complete with all tool materials, fishing rods, bow, crossbow, mace, and trident!
 
 ![Wooden Tools](preview/Wood.png)
